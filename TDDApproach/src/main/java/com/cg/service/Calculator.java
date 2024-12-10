@@ -2,6 +2,7 @@ package com.cg.service;
 
 public class Calculator {
 
+	//changed
 	public int sum(int no1, int no2) {
 		if(no1>999 || no2>999)
 		{
